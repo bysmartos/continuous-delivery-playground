@@ -23,7 +23,7 @@ jobs:
           npm ci
           npm run test:unit
 
-           build:
+  build:
         name: Build
         runs-on: ubuntu-latest
 
